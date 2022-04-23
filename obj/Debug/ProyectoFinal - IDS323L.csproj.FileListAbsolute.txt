@@ -1,0 +1,51 @@
+C:\Users\oscar\OneDrive - INTEC\Trimestre 2\Técnicas Fundamentales de IDS\Semana 11\ProyectoFinal - IDS323L\bin\Debug\ProyectoFinal - IDS323L.exe.config
+C:\Users\oscar\OneDrive - INTEC\Trimestre 2\Técnicas Fundamentales de IDS\Semana 11\ProyectoFinal - IDS323L\bin\Debug\ProyectoFinal - IDS323L.exe
+C:\Users\oscar\OneDrive - INTEC\Trimestre 2\Técnicas Fundamentales de IDS\Semana 11\ProyectoFinal - IDS323L\bin\Debug\ProyectoFinal - IDS323L.pdb
+C:\Users\oscar\OneDrive - INTEC\Trimestre 2\Técnicas Fundamentales de IDS\Semana 11\ProyectoFinal - IDS323L\obj\Debug\ProyectoFinal - IDS323L.csprojAssemblyReference.cache
+C:\Users\oscar\OneDrive - INTEC\Trimestre 2\Técnicas Fundamentales de IDS\Semana 11\ProyectoFinal - IDS323L\obj\Debug\ProyectoFinal___IDS323L.Properties.Resources.resources
+C:\Users\oscar\OneDrive - INTEC\Trimestre 2\Técnicas Fundamentales de IDS\Semana 11\ProyectoFinal - IDS323L\obj\Debug\ProyectoFinal - IDS323L.csproj.GenerateResource.cache
+C:\Users\oscar\OneDrive - INTEC\Trimestre 2\Técnicas Fundamentales de IDS\Semana 11\ProyectoFinal - IDS323L\obj\Debug\ProyectoFinal - IDS323L.csproj.CoreCompileInputs.cache
+C:\Users\oscar\OneDrive - INTEC\Trimestre 2\Técnicas Fundamentales de IDS\Semana 11\ProyectoFinal - IDS323L\obj\Debug\ProyectoFinal - IDS323L.exe
+C:\Users\oscar\OneDrive - INTEC\Trimestre 2\Técnicas Fundamentales de IDS\Semana 11\ProyectoFinal - IDS323L\obj\Debug\ProyectoFinal - IDS323L.pdb
+C:\Users\oscar\OneDrive - INTEC\Trimestre 2\Técnicas Fundamentales de IDS\Semana 11\ProyectoFinal - IDS323L\obj\Debug\ProyectoFinal___IDS323L.Login.resources
+C:\Users\oscar\OneDrive - INTEC\Trimestre 2\Técnicas Fundamentales de IDS\Semana 11\ProyectoFinal - IDS323L\obj\Debug\ProyectoFinal___IDS323L.RecoverPassword.resources
+C:\Users\oscar\OneDrive - INTEC\Trimestre 2\Técnicas Fundamentales de IDS\Semana 11\ProyectoFinal - IDS323L\obj\Debug\ProyectoFinal___IDS323L.Forms.Help.resources
+C:\Users\oscar\OneDrive - INTEC\Trimestre 2\Técnicas Fundamentales de IDS\Semana 11\ProyectoFinal - IDS323L\obj\Debug\ProyectoFinal___IDS323L.Forms.Register.resources
+C:\Users\oscar\OneDrive - INTEC\Trimestre 2\Técnicas Fundamentales de IDS\Semana 11\ProyectoFinal - IDS323L\obj\Debug\ProyectoFinal___IDS323L.Forms.Admin.resources
+C:\Users\oscar\OneDrive - INTEC\Trimestre 2\Técnicas Fundamentales de IDS\Semana 11\ProyectoFinal - IDS323L\obj\Debug\ProyectoFinal___IDS323L.Forms.Oscar.Profile.resources
+C:\Users\oscar\OneDrive - INTEC\Trimestre 2\Técnicas Fundamentales de IDS\Semana 11\ProyectoFinal - IDS323L\obj\Debug\ProyectoFinal___IDS323L.Forms.Oscar.ChangePassword.resources
+C:\Users\oscar\OneDrive - INTEC\Trimestre 2\Técnicas Fundamentales de IDS\Semana 11\ProyectoFinal - IDS323L\obj\Debug\ProyectoFinal___IDS323L.Forms.Oscar.Help.resources
+C:\Users\oscar\OneDrive - INTEC\Trimestre 2\Técnicas Fundamentales de IDS\Semana 11\ProyectoFinal - IDS323L\obj\Debug\ProyectoFinal___IDS323L.Forms.Oscar.Subjects.resources
+C:\Users\oscar\OneDrive - INTEC\Trimestre 2\Técnicas Fundamentales de IDS\Semana 11\ProyectoFinal - IDS323L\obj\Debug\ProyectoFinal___IDS323L.Forms.Oscar.Grades.resources
+C:\Users\oscar\OneDrive - INTEC\Trimestre 2\Técnicas Fundamentales de IDS\Semana 11\ProyectoFinal - IDS323L\obj\Debug\ProyectoFinal___IDS323L.Forms.Victor.ChangePassword.resources
+C:\Users\oscar\OneDrive - INTEC\Trimestre 2\Técnicas Fundamentales de IDS\Semana 11\ProyectoFinal - IDS323L\obj\Debug\ProyectoFinal___IDS323L.Forms.Victor.Help.resources
+C:\Users\oscar\OneDrive - INTEC\Trimestre 2\Técnicas Fundamentales de IDS\Semana 11\ProyectoFinal - IDS323L\obj\Debug\ProyectoFinal___IDS323L.Forms.Victor.Profile.resources
+C:\Users\oscar\OneDrive - INTEC\Trimestre 2\Técnicas Fundamentales de IDS\Semana 11\ProyectoFinal - IDS323L\obj\Debug\ProyectoFinal___IDS323L.Forms.Victor.Ranking.resources
+C:\Users\oscar\OneDrive - INTEC\Trimestre 2\Técnicas Fundamentales de IDS\Semana 11\ProyectoFinal - IDS323L\obj\Debug\ProyectoFinal___IDS323L.Forms.Victor.Report.resources
+C:\Users\oscar\OneDrive - INTEC\Trimestre 2\Técnicas Fundamentales de IDS\Semana 11\ProyectoFinal - IDS323L\obj\Debug\ProyectoFinal___IDS323L.Forms.Victor.Subjects.resources
+C:\Users\oscar\Desktop\Nueva carpeta\IDS323-App\bin\Debug\ProyectoFinal - IDS323L.exe.config
+C:\Users\oscar\Desktop\Nueva carpeta\IDS323-App\bin\Debug\ProyectoFinal - IDS323L.exe
+C:\Users\oscar\Desktop\Nueva carpeta\IDS323-App\bin\Debug\ProyectoFinal - IDS323L.pdb
+C:\Users\oscar\Desktop\Nueva carpeta\IDS323-App\obj\Debug\ProyectoFinal - IDS323L.csproj.AssemblyReference.cache
+C:\Users\oscar\Desktop\Nueva carpeta\IDS323-App\obj\Debug\ProyectoFinal - IDS323L.csproj.SuggestedBindingRedirects.cache
+C:\Users\oscar\Desktop\Nueva carpeta\IDS323-App\obj\Debug\ProyectoFinal___IDS323L.Forms.Admin.resources
+C:\Users\oscar\Desktop\Nueva carpeta\IDS323-App\obj\Debug\ProyectoFinal___IDS323L.Forms.Help.resources
+C:\Users\oscar\Desktop\Nueva carpeta\IDS323-App\obj\Debug\ProyectoFinal___IDS323L.Login.resources
+C:\Users\oscar\Desktop\Nueva carpeta\IDS323-App\obj\Debug\ProyectoFinal___IDS323L.RecoverPassword.resources
+C:\Users\oscar\Desktop\Nueva carpeta\IDS323-App\obj\Debug\ProyectoFinal___IDS323L.Forms.Register.resources
+C:\Users\oscar\Desktop\Nueva carpeta\IDS323-App\obj\Debug\ProyectoFinal___IDS323L.Forms.Oscar.ChangePassword.resources
+C:\Users\oscar\Desktop\Nueva carpeta\IDS323-App\obj\Debug\ProyectoFinal___IDS323L.Forms.Oscar.Help.resources
+C:\Users\oscar\Desktop\Nueva carpeta\IDS323-App\obj\Debug\ProyectoFinal___IDS323L.Forms.Oscar.Grades.resources
+C:\Users\oscar\Desktop\Nueva carpeta\IDS323-App\obj\Debug\ProyectoFinal___IDS323L.Forms.Oscar.Subjects.resources
+C:\Users\oscar\Desktop\Nueva carpeta\IDS323-App\obj\Debug\ProyectoFinal___IDS323L.Forms.Oscar.Profile.resources
+C:\Users\oscar\Desktop\Nueva carpeta\IDS323-App\obj\Debug\ProyectoFinal___IDS323L.Forms.Victor.ChangePassword.resources
+C:\Users\oscar\Desktop\Nueva carpeta\IDS323-App\obj\Debug\ProyectoFinal___IDS323L.Forms.Victor.Help.resources
+C:\Users\oscar\Desktop\Nueva carpeta\IDS323-App\obj\Debug\ProyectoFinal___IDS323L.Forms.Victor.Profile.resources
+C:\Users\oscar\Desktop\Nueva carpeta\IDS323-App\obj\Debug\ProyectoFinal___IDS323L.Forms.Victor.Ranking.resources
+C:\Users\oscar\Desktop\Nueva carpeta\IDS323-App\obj\Debug\ProyectoFinal___IDS323L.Forms.Victor.Report.resources
+C:\Users\oscar\Desktop\Nueva carpeta\IDS323-App\obj\Debug\ProyectoFinal___IDS323L.Forms.Victor.Subjects.resources
+C:\Users\oscar\Desktop\Nueva carpeta\IDS323-App\obj\Debug\ProyectoFinal___IDS323L.Properties.Resources.resources
+C:\Users\oscar\Desktop\Nueva carpeta\IDS323-App\obj\Debug\ProyectoFinal - IDS323L.csproj.GenerateResource.cache
+C:\Users\oscar\Desktop\Nueva carpeta\IDS323-App\obj\Debug\ProyectoFinal - IDS323L.csproj.CoreCompileInputs.cache
+C:\Users\oscar\Desktop\Nueva carpeta\IDS323-App\obj\Debug\ProyectoFinal - IDS323L.exe
+C:\Users\oscar\Desktop\Nueva carpeta\IDS323-App\obj\Debug\ProyectoFinal - IDS323L.pdb
